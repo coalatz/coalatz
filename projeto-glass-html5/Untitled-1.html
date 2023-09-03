@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>lampada</title>
+    <script>
+         var quebrada=false;
+        function f3(tipo){
+           
+           
+            if(!quebrada){
+                document.getElementById("luz").src = "_imagens/" +tipo+".jpg";
+                if(tipo=='lampada-quebrada'){
+                    quebrada = true;
+                }}
+        }
+        
+    </script>
+</head>
+<body>
+    <img src="_imagens/lampada-apagada.jpg" id="luz" onmousemove="f3('lampada-acesa')" onmouseout="f3('lampada-apagada')" onmousedown="f3('lampada-quebrada')"/>
+</body>
+</html>

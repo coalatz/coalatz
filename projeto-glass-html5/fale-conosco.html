@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+ <html lang="pt-br">
+
+<head>
+  <title> tudo sobre google glass</title>
+  <link rel="stylesheet" type="text/css" href="_css/estilo.css"/> 
+  <link rel="stylesheet" type="text/css" href="_css/form.css"/>
+</head>
+<script language="javascript" src="_javascript/funcoes.js"></script>
+   
+<body>
+  
+<div id="interface">
+  <header id="cabecalho">
+  <hgroup>
+  <h1>Google Glass</h1>
+  <h2>A revolução do Google está chegando</h2>
+  </hgroup>
+  <img id="icone"src="_imagens/glass-oculos-preto-peq.png">
+  <nav id="menu">
+<h1>Menu Principal</h1>
+<ul start="3">
+<li onmouseover="mudaFoto('_imagens/home.png')" onmouseout="mudaFoto('_imagens/contato.png')"><a href="index.html">Home</a></li>
+<li onmouseover="mudaFoto('_imagens/especificacoes.png')" onmouseout="mudaFoto('_imagens/econtato.png')"><a href="specs.html">Especificações</a></li>
+<li onmouseover="mudaFoto('_imagens/fotos.png')" onmouseout="mudaFoto('_imagens/contato.png')" ><a href="fotos.html">Fotos</a></li>
+<li onmouseover="mudaFoto('_imagens/multimidia.png')" onmouseout="mudaFoto('_imagens/contato.png')"><a href="multimidia.html">Multimídia</a></li>
+<li onmouseover ="mudaFoto('_imagens/contato.png')" onmouseout="mudaFoto('_imagens/contato.png')"><a href="fale-conosco.html">Fale conosco</a></li>
+</ul>
+</nav>
+    </header>
+    <section id="corpo-full">
+        <article id="noticia">
+        <header id="cabecalho_artigo">
+        <hgroup>
+        <h3>Fale Conosco > Contato</h3>
+        <h1>Formulário de Contato</h1>
+        <h2>por Gustavo Guanabara</h2>
+        <h3 class="direita">Atualizado em 23/julho/2023</h3>
+        </hgroup>
+        </header>
+
+<form method="post" id="fcontato">
+<fieldset id="usuario"><legend>Identificação do Usuário</legend>
+   <p> Nome:<input type="text" name="tname" id="cname" size="20" maxlength="30" placeholder="Nome Completo"/></p>
+   <p> Senha:<input type="password" name="tsenha" id="csenha" maxlength="8" placeholder="Crie uma Senha"/></p>
+   <p> E-mail:<input type="email" name="tmail" id="cmail" maxlength="20" placeholder="E-mail"/></p>
+   <fieldset id="sexo"><legend>Sexo</legend>
+        <input type="radio" name="tsexo" id="cmasc"/> <label for="cmasc">Masculino</label><br>
+        <input type="radio" name="tsexo" id="cfem"/><label for="cfem">Feminino</label></fieldset>
+   <p> Data de Nascimento:<input type="date" name="tdata" id="cdata"/> ></in></p>
+</fieldset>
+
+<fieldset id="endereco">
+<legend> Endereço do Usuário</legend>
+   <p> Logradouro:<input type="text" name="trua" id="crua" maxlength="80" placeholder="Rua,Avenida,Travessa"/> </p>
+   <p> Número:<input type="number" name="tnum" id="cnum" min="0" max="2000"/></p>
+   <p> Estado:<select name="test" id="cest" >
+    <option>Rio de Janeiro</option>
+    <option>Banabuiu</option>
+    <option>Quixada</option>
+    <option>Fortaleza</option>
+    <option>Quixeramobim</option>
+   </select></p>
+   <p> Cidade:<input type="text" name="tcid" id="ccid" placeholder="Sua Cidade"></p>
+</fieldset>
+<fieldset id="mensagem">
+<legend>Mensagem do Usuário</legend>
+   <p> Grau de Urgência:<input type="range" name="tgra" id="cgra" min="0" max="10"/> </p>
+   <p> Mensagem:<textarea name="tmsg" od="cmsg" cols="45" rows="5" placeholder="Deixe sua Mensagem">
+   </textarea></p>
+</fieldset>
+<fieldset id="pedido">
+<legend>Quero um Google Glass</legend>
+   <p><input type="checkbox"/> Gostaria de adquirir um Google Glass quando disponível</p>
+   <p> Cor:<input type="color" name="ccor" id="tcor" value="#0000FF"></p>
+   <p> Quantidade:<input type="text" name="cqtd" id="tqtd"></p>
+    Preço Total:<input type="text" name="tpre" id="cpre"> R$
+</fieldset>
+
+
+
+<input type="image" src="_imagens/botao-enviar.png" name="botao"/>
+</form>
+        </article>
+    </section>
+
+<footer id="rodape">
+    <p>Copyright 2013 - by Gustavo Guanabara<br>
+    Facebook | Twitter</p>
+      </div>
+    </footer>
+    </body>
+    </html>
