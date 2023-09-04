@@ -1,5 +1,9 @@
 <h3> Oi, meu nome é Eduardo </h3>
 
+Estudante da UFC, com sólida formação em desenvolvimento backend e conhecimento em linguagens de programação como C e Java.
+Especializado em gerenciamento de dados com PostgreSQL, além de experiência em HTML5 e CSS para desenvolvimento web.
+Conhecimento sólido em redes de computadores devido ao curso universitário, complementando as habilidades técnicas. 
+
 <h3>Tecnologias que tenho e tive contato</h3>
 <div style="display inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
