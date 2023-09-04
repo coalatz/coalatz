@@ -10,6 +10,8 @@
   
 </div>
 <br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coalatz&show_icons=true&theme=transparent)<br/>
 Sou universitario na Universidade Federal do Ceará - Campus Quixadá
 Curso Redes de Computadores
 
