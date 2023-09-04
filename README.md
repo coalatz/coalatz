@@ -1,12 +1,12 @@
 <h3> Oi, meu nome é Eduardo </h3>
-
+<code>
 int main() {
     char nome[] = "Eduardo";
     char cursando[] = "Redes de Computadores";
     char area[] = "Desenvolvimento Backend";
     int idade = 21;
 }
-
+</code>
 <h3>Tecnologias que tenho e tive contato</h3>
 <div style="display inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
