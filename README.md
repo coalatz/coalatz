@@ -17,7 +17,6 @@ int idade = 21;
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coalatz&show_icons=true&theme=dracula) <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coalatz&show_icons=true&theme=dracula) <br/>
 <h4>Contato</h4>
 
