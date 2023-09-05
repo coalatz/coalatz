@@ -1,10 +1,10 @@
-<h3> Oi, meu nome é Eduardo </h3>
-<code>
-    char nome[] = "Eduardo Alves";
-    char cursando[] = "Redes de Computadores";
-    char area[] = "Desenvolvimento Backend";
-    int idade = 21;
-</code>
+# Oi, meu nome é Eduardo </h3>
+```c
+char nome[] = "Eduardo Alves";
+char cursando[] = "Redes de Computadores";
+char area[] = "Desenvolvimento Backend";
+int idade = 21;
+```
 
 <h3>Tecnologias que tenho e tive contato</h3>
 <div style="display inline_block"><br/>
