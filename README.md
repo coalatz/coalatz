@@ -1,7 +1,7 @@
 # Oi, meu nome é Eduardo </h3>
 ```c
 char nome[] = "Eduardo Alves";
-char cursando[] = "Redes de Computadores";
+char cursando[] = "Redes de Computadores - UFC";
 char area[] = "Desenvolvimento Backend";
 int idade = 21;
 ```
