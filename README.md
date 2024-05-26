@@ -18,7 +18,6 @@ int idade = 21;
 </div>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coalatz&show_icons=true&theme=dracula) <br/>
 <h4>Contato</h4>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588997090330)
