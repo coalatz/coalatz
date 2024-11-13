@@ -3,7 +3,8 @@
 char nome[] = "Eduardo Alves";
 char cursando[] = "Redes de Computadores - UFC";
 char area[] = "Desenvolvimento Backend";
-int idade = 21;
+char foco[] = "Spring-Boot";
+int idade = 22;
 ```
 
 <h3>Tecnologias que tenho e tive contato</h3>
