@@ -7,7 +7,6 @@ char foco[] = "Spring-Boot";
 int idade = 22;
 ```
 
-<h3>Tecnologias que tenho e tive contato</h3>
 <table>
   <tr style="border: none;">
     <td style="border: none;">
@@ -25,7 +24,10 @@ int idade = 22;
     </td>
     <td style="border: none;">
       <picture>
-        
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coalatz&layout=compact&theme=dark&title_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coalatz&layout=compact&title_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
