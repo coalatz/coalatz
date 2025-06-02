@@ -2,7 +2,7 @@
 ```c
 char nome[] = "Eduardo Alves";
 char cursando[] = "Redes de Computadores - UFC";
-char area[] = "Desenvolvimento Backend";
+char area[] = "Desenvolvimento Full-Stack";
 char foco[] = "Spring-Boot";
 int idade = 22;
 ```
