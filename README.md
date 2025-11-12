@@ -1,11 +1,16 @@
-# Oi, meu nome é Eduardo </h3>
-```c
-char nome[] = "Eduardo Alves";
-char cursando[] = "Redes de Computadores - UFC";
-char area[] = "Desenvolvimento Full-Stack";
-char foco[] = "Spring-Boot";
-int idade = 23;
-```
+# Olá! Eu sou Eduardo Alves 👋
+
+Desenvolvedor **Full-Stack** com 3 anos de experiência em desenvolvimento de software e apaixonado por criar soluções robustas, eficientes e escaláveis.
+
+Minha especialidade reside no ecossistema **Java/Spring Boot** para o Backend, garantindo APIs performáticas e bem estruturadas. No Frontend, tenho domínio de tecnologias modernas como **React** e **Next.js**.
+
+---
+
+### Foco Profissional
+
+* **Desenvolvimento:** Desenvolvimento Full-Stack (Java, Spring Boot, React, Next.js).
+* **Graduando:** Redes de Computadores - UFC.
+* **Objetivo:** Contribuir em projetos inovadores que exigem alta performance e boas práticas de código.
 
 <br>
 <br>
@@ -17,22 +22,23 @@ int idade = 23;
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coalatz&theme=ayu_mirage"/>
 </div>
-<h2>Tecnologias</h2>
-<div align="center" style="display: inline_block"><br>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="JUnit" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
+<br>
+
+## 💡 Tecnologias & Ferramentas
+
+<div align="center">
+  
+| Backend | Frontend | DevOps & BD |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="40" height="40"/>   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="40" height="40"/> JUnit | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="40" height="40"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>  |
+| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>  | |
+  
 </div>
+
+</p>
 
 <br>
 
